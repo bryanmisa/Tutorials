@@ -1,4 +1,5 @@
 "use strict";
+
 // this help us to determine the bug in the code.
 // introduce to the reserved keywords in JS
 
@@ -19,7 +20,7 @@ if (hasDriversLicense) console.log('I can drive :D');
 // Functions
 function logger() {
   console.log('My name is Jonas');
-}
+} //end of function logger.
 
 // calling / running / invoking function
 logger();

@@ -1,4 +1,6 @@
-'use strict';
+"use strict";
+// this help us to determine the bug in the code.
+// introduce to the reserved keywords in JS
 
 /*
 ///////////////////////////////////////
